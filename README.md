@@ -1,6 +1,6 @@
 ![alt text](./images/atas.png)
 
-I love coding in PHP :php:. I work at [Karya Studio Teknologi Digital](https://karyastudio.com/) as a Software Engineer.
+I love coding in PHP 💬. I work at [Karya Studio Teknologi Digital](https://karyastudio.com/) as a Software Engineer.
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using PHP.
+- 👯 I’m looking to collaborate on projects that are using PHP & Javascript.
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- :pencil2: I Write blogs on karyastudio.com/blog on free days.
+- :pencil2: I write blogs on karyastudio.com/blog on free days.
 - :musical_note: I love to hear country music.
 
 
