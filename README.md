@@ -1,6 +1,6 @@
 ![alt text](./images/atas.png)
 
-I love coding in PHP 💬. I work at [Karya Studio Teknologi Digital](https://karyastudio.com/) as a Software Engineer.
+I love coding in PHP & Javascript 💻. I work at [Karya Studio Teknologi Digital](https://karyastudio.com/) as a Software Engineer.
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
