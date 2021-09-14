@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that are using PHP & Javascript.
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
 - :pencil2: I write blogs on karyastudio.com/blog on free days.
-- :musical_note: I love to hear country music.
+- :musical_note: I love to hear pop & ambyar music 😂.
 
 
 ### Let's Connect :coffee:
